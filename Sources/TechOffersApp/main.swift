@@ -1,3 +1,4 @@
+// This file is in charge of bootstrapping the Application
 import Foundation
 import Application
 import Kitura

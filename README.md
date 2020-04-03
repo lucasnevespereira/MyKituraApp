@@ -1,14 +1,14 @@
-# MyKituraApp
+# Techoffers App
 
 A description of this project.
 
 ## Project Structure
 
 ```
-MyKituraApp
+TechOffersApp
 ├── Package.swift
 ├── Sources/
-│    ├── MyKituraApp/
+│    ├── TechOffersApp/
 │    │    └── main.swift
 │    ├── Application/
 │    │    └── Application.swift
