@@ -12,7 +12,7 @@ final class MyKituraAppTests: XCTestCase {
             return
         }
 
-        let fooBinary = productsDirectory.appendingPathComponent("MyKituraApp")
+        let fooBinary = productsDirectory.appendingPathComponent("TechOffersApp")
 
         let process = Process()
         process.executableURL = fooBinary
